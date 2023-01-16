@@ -23,7 +23,7 @@ Extra credit +1 point for more features in the code that enhance the service suc
 WHAT YOU TURN IN
 
 * the js file with proper annotation ( name, class, date) and all the routes for the four requests: GET, POST, PUT and DELETE in a clear and readable manner with comments
-* screen recording ( GIF or video format) starting with your POSTMAN homepage that displays your name, then showing the POSTMAN operations for each route and getting a 404 or 400 status message and a 200 OK status message per route
+* screen recording ( GIF or video format) starting with your POSTMAN homepage that displays your name, then showing the POSTMAN operations for each route and getting a 404 or 400 status message and at least a 200 OK status message per route
 * short reflection as a JS comment in which you explain (1) how programs communicate in what order to each other for a given purpose, (2) what you learned in this project and (3) how can this project be further extended.  
 
 
