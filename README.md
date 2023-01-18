@@ -12,7 +12,7 @@ RUBRIC: 5 points each properly coded route with POSTMAN operation
 
 * http route for GET requests ( you code a home route that displays a custom message for you music app, a route that displays all the musical genres ( or songs) of the app, a route that displays each genre (or song) by id, and a route that filters requests based on year and month - this returns the month and year you look for) Extra: You can create another filter of your choice. )
 
-* http route for POST requests ( you code the POST requests and then use POSTMAN to add a new genre or song. Then you display the new listing of genres or songs; You also need code a condition that 'name of the genre should have a minimum and maximum number of characters ) 
+* http route for POST requests ( you code the POST requests and then use POSTMAN to add a new genre or song. Then you display the new listing of genres or songs; You also need code a condition that checks the length of the genre or song name. For ex "name of the genre should have a minimum and maximum number of characters") 
 
 * http route for PUT requests ( you code the PUT requests and add code to validate the request such as: 'Name is required" and "The name has to be at least three character long"; in POSTMAN you update one genre (or song) of your choice. Run and test the update to get a 200 OK status message and then a 400 status message saying that the name of the character should be at least three, or more characters long - you can make the requirement alpha numeric for an extra challenge)
 
